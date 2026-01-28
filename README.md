@@ -41,12 +41,4 @@ The dashboard is designed to provide both high-level summaries and granular movi
 
 ---
 
-## 📁 Repository Structure
-```text
-├── Dashboard/
-│   └── Movie_Analysis_Dashboard.pbix  # Power BI File
-├── Data/
-│   └── movie_dataset.csv              # Source Data
-├── Images/
-│   └── dashboard_preview.png          # Visual Preview
-└── README.md                          # Project Documentation
+    # Project Documentation
