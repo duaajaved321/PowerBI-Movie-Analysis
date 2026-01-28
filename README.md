@@ -1,5 +1,9 @@
 # 🎬 Movie Revenue & Ratings Analysis (Power BI Dashboard)
 
+<p align="center">
+  <img src="Dashboard Preview.png" width="800" title="Power BI Dashboard Preview">
+</p>
+
 ## 📌 Project Overview
 This project explores the intersection of **commercial success** and **critical reception** in the film industry. Using a publicly available movie dataset, I developed an interactive Power BI dashboard to analyze how profitability correlates with viewer and critic ratings across major and independent studios.
 
